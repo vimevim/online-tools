@@ -1,10 +1,5 @@
 # online-tools
 * > Ara sıra kullandığım, çok faydalı olduğuna inandığım bir kaç tarayıcı tabanlı aracı ve siteyi paylaşmak istedim. 
-
-
-## İçerikler
-* **[Kod Editörleri](#kod-editorleri)**  
-* **[Tasarım Araçları](#tasarim-araclari)**  
   
 - - -
 
@@ -14,12 +9,18 @@
 * [JSFiddle](https://jsfiddle.net/) : JavaScript, CSS ve HTML kodlarını geliştirip, derleyip, çalıştırabileceğiniz, isteğe bağlı JQuery gibi kütüphaneleri de ekleyip kullanabileceğiniz başka bir online geliştirici ortamı. 
 * [repl.it](https://repl.it/~) : Repl.it, bir çok programlama dilinde kodlama imkanı sunan aynı zamanda yazdığınız kodu internet üzerinde bir kaç kişi ile birlikte işbirliği içerisinde geliştirmenize yarayan online bir geliştirme ortamıdır. Kodunuzu yazabilir, derleyebilir ve çalıştırabilirsiniz.
 
+---
+
 ## Tasarım araçları
 * [diagrams.net](https://app.diagrams.net/): Akış şeması, zihin haritası, hiyerarşi tabloları gibi bir çok teknik gösterimi çizebileceğiniz bir online tool.
 * [Method Draw SVG Editor](https://editor.method.ac/): Online olarak kullanabileceğiniz, son derece basit, paint-vari bir SVG editörü.
 
+---
+
 ## Üç Boyutlu Tasarım
 * [Tinkercad](https://www.tinkercad.com/) : Tinkercad üç boyutlu tasarım kapsamında çocuklar için temiz bir kullanıcı arayüzü sunarak tasarıma başlangıç için mükemmel olmasada "en hızlı üç boyutlu çizim" ortamını bize sunan bir araçtır.
+
+---
 
 ## Elektronik Devre Çizim Araçları
 * [EveryCircuit](https://everycircuit.com/) : EveryCircuit önereceğim diğer sitelerden mobil uygulamalarıyla öne çıkıyor. Güzel animasyonları, kapsamlı bir kullanıcı arayüzüyle gerçekten hoş bir araç.
