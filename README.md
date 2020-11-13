@@ -1,6 +1,8 @@
 # online-tools
 * > Ara sıra kullandığım, çok faydalı olduğuna inandığım bir kaç tarayıcı tabanlı aracı ve siteyi paylaşmak istedim. 
   
+## Verimlilik
+* [quire](https://quire.io/w) : Proje yönetiminde önemli rolü olan Kanban ve Scrum tekniğini proje partnerlerinizle birlikte kullanabileceğiniz ücretsiz bir araç. Ben özellikle öz-disiplin adına hayatımın içine yavaş yavaş almaktayım.
 - - -
 
 ## Kod Editörleri
@@ -14,10 +16,10 @@
 ## Tasarım araçları
 * [diagrams.net](https://app.diagrams.net/): Akış şeması, zihin haritası, hiyerarşi tabloları gibi bir çok teknik gösterimi çizebileceğiniz bir online tool.
 * [Method Draw SVG Editor](https://editor.method.ac/): Online olarak kullanabileceğiniz, son derece basit, paint-vari bir SVG editörü.
-
+* [Make Art](https://art.kano.me/) : Kod yazarak çizim yapabileceğiniz, eğlenceli güzel bir tarayıcı tabanlı araç.
 ---
 
-## Üç Boyutlu Tasarım
+## Üç Boyutlu Tasarım araçları
 * [Tinkercad](https://www.tinkercad.com/) : Tinkercad üç boyutlu tasarım kapsamında çocuklar için temiz bir kullanıcı arayüzü sunarak tasarıma başlangıç için mükemmel olmasada "en hızlı üç boyutlu çizim" ortamını bize sunan bir araçtır.
 
 ---
@@ -27,3 +29,12 @@
 * [Circuit Lab](https://www.circuitlab.com/) : Circuit Lab gerçekten temiz ve kullanıcı dostu arayüzüyle basit devre şemaları çizebileceğiniz güzel bir araç.
 * [Circuit Simulator Applet](http://www.falstad.com/circuit/) : Çok basit duran ama hoş olmayan arayüzüyle hazırlamak istediğiniz devrelerin ölçümlerini simüle edebileceğimiz veriler alabileceğimiz bir araç.
 * [Tinkercad](https://www.tinkercad.com/) : Tinkercad aslında çocuklar için basit bir üç boyutlu tasarım aracı olarak karşımıza çıksada içerisinde arduino kompanentlerini bulunduran ve kullanıcısına hazırladığı devreyi simüle edebilme imkanı sunan çok güzel bir tool.
+
+---
+
+## Basit araçlar
+
+* [json2table.com](http://json2table.com/) : Elinizde ki json dosyasını tablo ve hiyerarşik tablo olarak görüntülemenizi sağlayan bir araç.
+* [NormalMap-Online](http://cpetry.github.io/NormalMap-Online/) : Üç boyutlu tasarımlarınızda ki texture mapping işleminde size yardımcı olacak basit bir araç.
+* [devdocs](https://devdocs.io/) : Developer camiası için olmazsa olmaz bir kaynak, fazla bir şey söylemek istemiyorum bence bi tıklamayı hakediyor.
+* [AlternativeTo](https://alternativeto.net/) : AlternativeTo Tinkercad, alternative to CodePen. Bu site ne işime yarıyor? Ücretli bir program kullanıyorum, reklamlardan yada lisans mevzusundan sıkılınca ise bu siteye girip bu programın ismini yazıyorum, bana bu programın yaptığı işi yapan bir çok alternatif sunuyor ve aralarından açık kaynak ve ücretsiz olanı seçip kullanıyorum. 
