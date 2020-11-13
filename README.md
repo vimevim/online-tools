@@ -12,5 +12,5 @@
 * [codesandbox.io](https://codesandbox.io/)
 
 ## Tasarım araçları
-* [diagrams.net](https://app.diagrams.net/)
+* [diagrams.net](https://app.diagrams.net/): Akış şeması, zihin haritası, hiyerarşi tabloları gibi bir çok teknik gösterimi çizebileceğiniz bir online tool.
 
