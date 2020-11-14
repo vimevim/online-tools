@@ -17,6 +17,8 @@
 * [diagrams.net](https://app.diagrams.net/): Akış şeması, zihin haritası, hiyerarşi tabloları gibi bir çok teknik gösterimi çizebileceğiniz bir online tool.
 * [Method Draw SVG Editor](https://editor.method.ac/): Online olarak kullanabileceğiniz, son derece basit, paint-vari bir SVG editörü.
 * [Make Art](https://art.kano.me/) : Kod yazarak çizim yapabileceğiniz, eğlenceli güzel bir tarayıcı tabanlı araç.
+* [Interplay](https://interplayapp.com/) : Interplay UI-IX tasarımlarınızı tarayıcınız üzerinden online bir biçimde yapmanıza olanak tanıyan güzel bir tool.
+
 ---
 
 ## Üç Boyutlu Tasarım araçları
