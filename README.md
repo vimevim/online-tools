@@ -38,5 +38,5 @@
 
 * [json2table.com](http://json2table.com/) : Elinizde ki json dosyasını tablo ve hiyerarşik tablo olarak görüntülemenizi sağlayan bir araç.
 * [NormalMap-Online](http://cpetry.github.io/NormalMap-Online/) : Üç boyutlu tasarımlarınızda ki texture mapping işleminde size yardımcı olacak basit bir araç.
-* [devdocs](https://devdocs.io/) : Developer camiası için olmazsa olmaz bir kaynak, fazla bir şey söylemek istemiyorum bence bi tıklamayı hakediyor.
+* [devdocs](https://devdocs.io/) : Developer camiası için olmazsa olmaz bir kaynak, kullandığınız programlama diliyle ilgili kapsamlı dökümasyonların bulunduğu bir döküman arşivi diyebiliriz, hoş güzel bir proje. Türkçeleştirilmesi ümidiyle...
 * [AlternativeTo](https://alternativeto.net/) : AlternativeTo Tinkercad, alternative to CodePen. Bu site ne işime yarıyor? Ücretli bir program kullanıyorum, reklamlardan yada lisans mevzusundan sıkılınca ise bu siteye girip bu programın ismini yazıyorum, bana bu programın yaptığı işi yapan bir çok alternatif sunuyor ve aralarından açık kaynak ve ücretsiz olanı seçip kullanıyorum. 
